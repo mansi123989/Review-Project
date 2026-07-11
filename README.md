@@ -53,14 +53,8 @@ pip install -r requirements.txt
 
 ## ▶️ Run
 
-Train the model:
-
-```bash
-python train.py
-```
-
 Run the application:
 
 ```bash
-python app.py
+streamlit run app.py
 ```
