@@ -5,7 +5,10 @@
 Fake Product Review Detection is a Machine Learning project that classifies product reviews as **Fake** or **Genuine** using Natural Language Processing (NLP). The project preprocesses review text, extracts meaningful features using TF-IDF, and applies a machine learning classifier to identify deceptive reviews. It helps improve the reliability of online reviews and supports better purchasing decisions.
 
 ---
+   
+## 🚀 Live Demo
 
+Try the application here: **https://review-project-h4k4vwttthw4hi6ddm2kuv.streamlit.app/**
 ## 🛠️ Tech Stack
 
 - Python
